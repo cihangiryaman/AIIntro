@@ -1,6 +1,9 @@
+"""
+Cihangir Yaman 01.09.2025 Day 4
+My aim for today is learning classification algorithms
+This program works on Iris dataset, and uses Support Vector machines.
+"""
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from sklearn.svm import SVC

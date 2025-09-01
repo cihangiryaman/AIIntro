@@ -1,5 +1,5 @@
 """
-Cihangi Yaman 30.08.2025 Day 3
+Cihangir Yaman 30.08.2025 Day 3
 My aim for today is learning classification and KNN algorithm
 This program works on Titanic dataset.
 Predict a new passenger whether survive or not based on real Titanic passengers' data

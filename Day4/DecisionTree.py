@@ -1,3 +1,8 @@
+"""
+Cihangir Yaman 31.08.2025 Day 4
+My aim for today is learning classification algorithms
+This program works on Iris dataset, and uses Decision Tree algorithm.
+"""
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
